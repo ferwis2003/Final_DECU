@@ -1,0 +1,12 @@
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\bin\Debug\Practica_FinalDCU.exe.config
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\bin\Debug\Practica_FinalDCU.exe
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\bin\Debug\Practica_FinalDCU.pdb
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.csproj.AssemblyReference.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.csproj.SuggestedBindingRedirects.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.Properties.Resources.resources
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.csproj.GenerateResource.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.csproj.CoreCompileInputs.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.exe
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.pdb
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.Escuela.resources
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Practica_FinalDCU\Practica_FinalDCU\obj\Debug\Practica_FinalDCU.Inicio.resources
